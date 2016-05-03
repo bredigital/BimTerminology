@@ -1,2 +1,2 @@
-# BimTaxonomy
-A Bim Taxonomy created and run by the Building Information Modelling Team at BRE
+# BimTerminology
+A Bim Terminology created and run by the Building Information Modelling Team at BRE

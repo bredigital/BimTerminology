@@ -13,7 +13,7 @@ Actor,,"A person, an organization or an organizational unit (such as a departmen
 Aftercare,,"defined period post-handover of an asset/facility in which the design and construction team passes on information and knowledge to the operator, operations team or facility manager, responds to queries and problems, and monitors and reviews the asset's/facility's performance.",BS 8536-1
 Alignment,,Achieving complete agreement between the contents of an information model and the state of a physical asset,OBE
 Archive,,"Component of the common data environment.  NOTE: The archive section of the CDE is for inactive of superseded information. Such information will provide a history of the project information transfers, sharing, change orders and knowledge retention, and can be used for other contractual purposes or 'discovery'","BS 1192, PAS 1192-2 Back"
-Area of Capability,,Prequalification topic that enquires about the capability of suppliers and their supply chains ? as defined by the relevant question module e.g. health and safety,PAS 91
+Area of Capability,,Prequalification topic that enquires about the capability of suppliers and their supply chains - as defined by the relevant question module e.g. health and safety,PAS 91
 Article Number,,"Manufacturer's reference number, GTIN, or other identifier identifying the product or constituents of a product",ISO/DSI 16757-1
 As-Constructed,,"A model consisting of documentation, non-graphical information and graphical information defining the delivered project.  'As-constructed' defines the defect and deviation to the designed model occurring during construction. The 'As-constructed' model and its appended documentation are continually updated through re-measurement as construction progresses. This allows for deviation to be reviewed with respect to the following packages and making knowledgeable assessment of impact and resolution",PAS 1192-2 Back
 Aspect,,Concept by which the existence and appearance of a thing is experience and cannot exist without the existence of its possessor and which is either an intrinsic non-separable facet of its possessor or a role of its possessor,ISO 16354
@@ -132,7 +132,7 @@ Definition,,Representation of a concept by a descriptive statement which serves 
 Definition Relation,,Relation that specifies that a textual description is a description of something R1 role player: character string R2 role player: anything/R1 role: description R2 role: described/R1-R2 expression: is a description of R2-R1 expression: is described as,ISO 15686-4
 Deliverable,,product or service as an outcome of a process,BS 8536-1
 Descriptive Object,,Object giving descriptive and/or visual information about the product,ISO 15686-4
-Design (File Format),DGN,File extension for Bentley Systems? MicroStation and Intergraph's Interactive Graphics Design System CAD programs.,PAS 1192-2 Back
+Design (File Format),DGN,"File extension for Bentley Systems, MicroStation and Intergraph's Interactive Graphics Design System CAD programs.",PAS 1192-2 Back
 Design Intent Model,,Initial version of the Project Information Model developed by the design suppliers,"PAS 1192-2 Front, PAS 1192-2 Back"
 Design Process,,Construction process determining construction properties for the built environment before it is made physical,ISO 12006-2
 Design Review Protocol,,procedure for ensuring a structured and systematic review of a design at defined points in the project life cycle,BS 8536-1
@@ -285,7 +285,7 @@ Production Process,,Construction process resulting in built environment,BSI 1200
 Project,,"Unique process consisting of a set of coordinated and controlled activities with start and finish dates, undertaken to achieve an objective conforming to specific requirements, including the constraints of time, cost and resources to effect change to the physical or operational aspects of a facility","ISO 12911, ISO 22263"
 Project Delivery Team,,"group of organizations or individuals contracted either directly or indirectly to deliver services or products to the project, and personnel from the employer or asset owner who are directly involved in the management, planning and delivery of the project","PAS 1192-2 Front, PAS 1192-2 Back, PAS 1192-5"
 Project Execution Plan,,high-level statement of the intentions and arrangements for a project,BS8636-1
-Project Implementation Plan,PIP,Statement relating to the suppliers? IT and human resources capability to deliver the EIR,"PAS 1192-2 Front, PAS 1192-2 Back"
+Project Implementation Plan,PIP,"Statement relating to the suppliers, IT and human resources capability to deliver the EIR","PAS 1192-2 Front, PAS 1192-2 Back"
 Project Information Model,PIM,"Information model developed during the design and production and construction phase of a project, consisting of graphical information, non- graphical information and documentation defining the delivered project","PAS 1192-2 Front, PAS 1192-2 Back, PAS 1192-3, BS8636-1"
 Promoter,,"Algorithm that generates an interaction schema for an interaction framework, interaction framework schema, and templates file for input",ISO/DSI 29481-2
 Property,,Defined parameter suitable for the description and differentiation of products,ISO/DSI 16757-1
@@ -325,7 +325,7 @@ SI System,,Le Système International d’Unités. International system of units,PAS 
 Simplified Representation,,"scale view incorporating only the essential shape, size or features of an object",BS 8541-2
 Smart,,"Application of autonomous or semi-autonomous technology systems to achieve greater utilization of resources, limiting or reducing per capita resource consumption to maintain or improve quality of life",PAS 1192-5
 Smart City,,"Effective integration of physical, digital and human systems in the built environment to deliver a sustainable, prosperous and inclusive future for its citizens",PAS 1192-5
-Smart Grid,,"Electricity network that uses information and communications technology (ICT) to integrate the actions of all users connected to it ? generators, consumers and those that do both ? in order to efficiently deliver sustainable, economic and secure electricity supplies",PAS 1192-5
+Smart Grid,,"Electricity network that uses information and communications technology (ICT) to integrate the actions of all users connected to it - generators, consumers and those that do both - in order to efficiently deliver sustainable, economic and secure electricity supplies",PAS 1192-5
 Soft Landings,,"process for the graduated handover of a new or refurbished asset/facility, where a defined period of aftercare by the design and construction team is an owner's requirement that is planned and developed from the outset of the project","PAS 1192-2 Front, PAS 1192-2 Back"
 Solid Modelling,,Method to describe shapes and surfaces by a computer model by joining solid primitives,ISO/DSI 16757-2
 Space,,Limited three-dimensional extent defined physically or notionally,ISO 12006-2
@@ -339,7 +339,7 @@ Standard Font,,Agreed set of font types and sizes to be used for the project,PAS
 Standard Layering Convention,,Single layering convention used by the project team,PAS 1192-2 Back
 Standard Method and Procedure,SMP,"Set of standard methods and procedures covering the way information is named, expressed and referenced","PAS 1192-2 Front, PAS 1192-2 Back"
 Static Property,,Technical property that is independent of the operating conditions of the building services system in which the product is installed and which gets its fixed value from the catalogue,ISO/DSI 16757-1
-Status,,"Defines the 'suitability' of information in a model drawing or document. Not to be confused with the status in architectural documentation as 'new build?, 'retain' or 'demolish'",PAS 1192-2 Back
+Status,,"Defines the 'suitability' of information in a model drawing or document. Not to be confused with the status in architectural documentation as 'new build', 'retain' or 'demolish'",PAS 1192-2 Back
 Sub-consultant,,"Entity engaged on consultancy work, directly under the control of a consultant",PAS 91
 Sub-contractor,,Entity engaged to undertake work for a contractor as part of a larger project being undertaken by that second entity,PAS 91
 Sub-Model,,model included as an instance in another model,BS 1192

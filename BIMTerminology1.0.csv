@@ -10,7 +10,7 @@ Accessory Hierarchy,,Representation of the dependencies between products and acc
 Activity,,task that is needed to produce a deliverable,BS 8536-1
 Activity Space,,"Space defined by the spatial extension of an activity. NOTE 1 to entry: A spatial extension of an activity, for example, a table or a bed, and the activity space around them.",ISO 12006-2
 Actor,,"A person, an organization or an organizational unit (such as a department, team, etc.) involved in a construction process",ISO/DIS 29481-1
-Aftercare,,"defined period post-handover of an asset/facility in which the design and construction team passes on information and knowledge to the operator, operations team or facility manager, responds to queries and problems, and monitors and reviews the asset’s/facility’s performance.",BS 8536-1
+Aftercare,,"defined period post-handover of an asset/facility in which the design and construction team passes on information and knowledge to the operator, operations team or facility manager, responds to queries and problems, and monitors and reviews the asset's/facility's performance.",BS 8536-1
 Alignment,,Achieving complete agreement between the contents of an information model and the state of a physical asset,OBE
 Archive,,"Component of the common data environment.  NOTE: The archive section of the CDE is for inactive of superseded information. Such information will provide a history of the project information transfers, sharing, change orders and knowledge retention, and can be used for other contractual purposes or 'discovery'","BS 1192, PAS 1192-2 Back"
 Area of Capability,,Prequalification topic that enquires about the capability of suppliers and their supply chains ? as defined by the relevant question module e.g. health and safety,PAS 91
@@ -38,7 +38,7 @@ BIM Guidance Document,,Document that aids users in achieving their intended resu
 BIM Software Application,,"A software application that is used to create, modify, analyze, manage, publish, share, or expire elements of a BIM",ISO/DIS 29481-1
 BIM Viewer,,"Software used to view 3D rendition without requiring the user to have the software that produced the model (Navisworks, Navigator, Solibri, etc.; also eDrawing to view both 2D and 3D rendition)",PAS 1192-2 Back
 Binary Relation,,"Relation that specifies a relationship between two things, each of which is playing its own role that is of a kind that is typical for the relation type",ISO 16354
-Boolean Operators,,"Logical operators such as conjunction ? (and) disjunction ? (or), and negation ? (not) used in solid modelling to combine primitive solids",ISO/DSI 16757-2
+Boolean Operators,,"Logical operators such as conjunction - (and) disjunction - (or), and negation - (not) used in solid modelling to combine primitive solids",ISO/DSI 16757-2
 Brief,,"working document which specifies at any point in time the relevant needs and aims, resources of the client and user, the context of the project and any appropriate design requirements within which all subsequent briefing (when needed) and designing can take place",BS 8536-1
 Briefing,,"process of identifying and analysing the needs, aims and constraints (the resources and the context) of the client and the relevant parties, and of formulating any resulting problems that the designer is required to solve","BS 8536-1, BS7832, ISO9699"
 BSS Property,,Technical property that describes an aspect of the current state of a BSS,ISO/DSI 16757-1
@@ -321,12 +321,12 @@ Security-minded,,"Understanding and routine application of appropriate and propo
 Sensitive Built Asset,,"Built asset, as a whole or in part, that may be of interest to a threat agent for hostile, malicious, fraudulent and/or criminal behaviours or activates",PAS 1192-5
 Sensitive Information,,"Information, the loss, misuse or modification of which, or unauthorized access to, could: adversely affect the privacy, welfare or safety of an individual or individuals; compromise intellectual property or trade secrets of an organization; cause commercial or economic harm to an organization or country; and/or jeopardize the security, internal and foreign affairs of a nation, depending on the level of sensitivity and nature of the information",PAS 1192-5
 Shared,,"Component of the CDE. The shared section of the CDE is where information can be made available to others in a 'safe' environment. The early release of information assists in the rapid development of the design solution. To allow this to be achieved, the concept of information 'status/suitability' has been adopted",PAS 1192-2
-SI System,,Le Systï¿½me International d?Unitï¿½s. International system of units,PAS 1192-2
+SI System,,Le Système International d’Unités. International system of units,PAS 1192-2
 Simplified Representation,,"scale view incorporating only the essential shape, size or features of an object",BS 8541-2
 Smart,,"Application of autonomous or semi-autonomous technology systems to achieve greater utilization of resources, limiting or reducing per capita resource consumption to maintain or improve quality of life",PAS 1192-5
 Smart City,,"Effective integration of physical, digital and human systems in the built environment to deliver a sustainable, prosperous and inclusive future for its citizens",PAS 1192-5
 Smart Grid,,"Electricity network that uses information and communications technology (ICT) to integrate the actions of all users connected to it ? generators, consumers and those that do both ? in order to efficiently deliver sustainable, economic and secure electricity supplies",PAS 1192-5
-Soft Landings,,"process for the graduated handover of a new or refurbished asset/facility, where a defined period of aftercare by the design and construction team is an owner’s requirement that is planned and developed from the outset of the project","PAS 1192-2 Front, PAS 1192-2 Back"
+Soft Landings,,"process for the graduated handover of a new or refurbished asset/facility, where a defined period of aftercare by the design and construction team is an owner's requirement that is planned and developed from the outset of the project","PAS 1192-2 Front, PAS 1192-2 Back"
 Solid Modelling,,Method to describe shapes and surfaces by a computer model by joining solid primitives,ISO/DSI 16757-2
 Space,,Limited three-dimensional extent defined physically or notionally,ISO 12006-2
 Space (Location),,"Named location for activities such as use, inspection or maintenance, including unoccupied or uninhabitable Spaces, but not necessarily inaccessible voids",BS 1192-4

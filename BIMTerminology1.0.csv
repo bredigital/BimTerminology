@@ -4,7 +4,7 @@
 3D,,Three-dimensional,PAS 1192-2 Back
 3D Model,,"A model with objects having three-dimensional properties. Such models are always to be considered to be dynamic, as they will be made up of 'model files' that are 'reference' files",PAS 1192-2 Back
 3D Visualization,,"3D images from the 3D CAD model, or a virtual representation of the building or facility to be constructed; used for visualizing the project",PAS 1192-2 Back
-Acceptance Critieria,,Evidence required for considering that requirements have been fulfilled,ISO 22263
+Acceptance Criteria,,Evidence required for considering that requirements have been fulfilled,ISO 22263
 Accessory,,"product of the same or of different product groups, which can be attached to a product. NOTE 1 to entry: An accessory is not a different type of product, it plays an ancillary role to another product.",ISO/DSI 16757-1
 Accessory Hierarchy,,Representation of the dependencies between products and accessories,ISO/DSI 16757-1
 Activity,,task that is needed to produce a deliverable,BS 8536-1
@@ -29,7 +29,7 @@ Asset Information Requirements,AIR,Data and information requirements of the orga
 Asset Management,,Coordinated activity of an organization to realize value from assets,"PAS 1192-3, PAS 1192-5, ISO 55000, BS 8536-1"
 Asset Management System,,Management system for asset management whose function is to establish the asset management policy and asset management objective,PAS 1192-3
 Asset Owner,,"Individual or organization that owns the built asset and any associated asset information, is the asset operator or licensee, or is the operator of the system of which the built asset is a component",PAS 1192-5
-Attribute,,piece of data forming a partial description of an object or entity,"PAS 1192-2 Front, PAS 1192-2 Back, BS 1192-4"
+Attribute,,characteristic assessed in terms of whether it does or does not meet a given performance,ISO 6707-1
 Auditor,,Testing review body,BS 8541-6
 Author,,"originator of Information Model; Graphical Model, Non Graphical Information and Documents.","PAS 1192-2 Front, PAS 1192-2 Back"
 Baseline Security Measures,,Contractually required measures relating to personal and commercial information,PAS 1192-5
@@ -51,15 +51,16 @@ Building Services System,BSS,Technical system that provides building services in
 Built Asset,,"Building, multiple buildings (e.g. a site or campus) or built infrastructure (e.g. roads, railways, pipelines, dams, docks, etc.) that is the subject of a construction project or where the asset information is held in a digital format",PAS 1192-5
 Built Asset Security Information Requirements,BASIR,"The BASIR shall detail the employer or asset owner's requirements with regard to the arrangements for, and overseeing of, the secure capture, handling, dissemination, storage, access and use of all data and information pertaining to sensitive assets and systems",PAS 1192-5
 Built Asset Security Manager,,"Individual reporting directly to, or employed by, the employer or asset owner and undertaking the role of security management",PAS 1192-5
-Built Environment,,Physical construction result intended to serve a function or user activity,ISO 12006-2
+Built Environment,,collection of man-made or induced physical objects located in a particular area or region,ISO 6707-3
 Built Space,,"Space defined by built or natural environment or both, intended for user activity or equipment",ISO 12006-2
 Business Requirement,,A requirement that describes in business terms what needs to be delivered or accomplished,ISO/DIS 29481-1
 Buyer,,Client or other entity procuring the services of supplier(s) contributing to the fulfilment of a construction related contract,PAS 91
 CAD Standard,,"Standard used to produce CAD models that will include origins, units, layering conventions, line specifications, file-naming conventions, drawing numbering, etc.",PAS 1192-2 Back
 CAD Viewer,,"Software used to view rendition print fi les without requiring the user to have the software that produced the model. (Adobe PDF, DWF, etc.)",PAS 1192-2 Back
-Captial/delivery Phase,,"Major works where information is managed using PAS 1192-2:2013 and an asset is designed, procured and delivered",PAS 1192-3
+Capital/delivery Phase,,"Major works where information is managed using PAS 1192-2:2013 and an asset is designed, procured and delivered",PAS 1192-3
 Catalogue Metadata,,Data in the catalogue which contains data about the catalogue itself,ISO/DSI 16757-1
 CDM Coordinator,,employee whose role is to 'advise and assist the client to comply with their duties under the Construction (Design and Management)] Regulations',BS7000-4
+Characteristic,,abstraction of a property of one or more objects,ISO 6707-1
 CIC Scope of Services,,Multi-disciplinary scope of services published by the Construction Industry Council (CIC) for use by members of the project team on major projects,"PAS 1192-2 Front, PAS 1192-2 Back"
 Clash Rendition,CR,Rendition of the native format model file to be used specifically for spatial coordination processes. To achieve clash avoidance or to be used for clash detection,"PAS 1192-2 Front, PAS 1192-2 Back"
 Class,,A type or collection of things that share common attributes,ISO/DIS 29481-1
@@ -82,11 +83,11 @@ Computer-aided Facility Management,CAFM,,
 Concept,,(1) unit of knowledge created by a unique combination of aspects and/or components (adapted from ISO 1087-1) (2) commonality between individual things that is defined by one or more constraints that describe the limits for the inclusion of individual things to conform to the concept,ISO 16354
 Concession,,Permission to use or release a product that does not conform to specific requirements or a concession against a contract requirement (gain permission for non-conformance),PAS 1192-2 Back
 Concurrent Engineering,,"Systematic approach to the integrated, concurrent design of products and their related processes, including manufacture and support (based on IDA definition). In a construction context it incorporates, both early contractor and owner/operator involvement",PAS 1192-2 Back
-Conenvtional Cartesian Axis,,"Geometric convention using positive co-ordinates (X, Y, Z) ordered as (East, North, upwards), so that conventional plans use X, Y; and Z is upwards",BS 1192
+Conventional Cartesian Axis,,"Geometric convention using positive co-ordinates (X, Y, Z) ordered as (East, North, upwards), so that conventional plans use X, Y; and Z is upwards",BS 1192
 Configuration,,Interrelated functional and physical characteristics of a product defined in product configuration information,PAS 1192-2 Back
 Configuration Item,,Entity within a configuration that satisfies an end use function,PAS 1192-2 Back
 Configuration Management,,Co-ordinated activities to direct and control configuration,PAS 1192-2 Front
-Confirguration Status Accounting,,"Formalized recording and reporting of product configuration information, the status of proposed changes and the status of the implementation of approved changes",PAS 1192-2 Back
+Configuration Status Accounting,,"Formalized recording and reporting of product configuration information, the status of proposed changes and the status of the implementation of approved changes",PAS 1192-2 Back
 Conformity,,Fulfilment of a requirement,ISO 22263
 Connection,,Named logical relationship between two Components,BS 1192-4
 Consortium,,"Association of two or more entities (individuals, companies or organizations) pooling resources to participate in a common construction related project",PAS 91
@@ -156,7 +157,7 @@ End-user,,person receiving asset/facility-related services,BS8636-1
 Enterprise,,Entity constituting multiple organizations within the supply chain,PAS 1192-5
 Entity,,Synonym for 'object',PAS 1192-2 Back
 Exchange Requirement,ER,A defined set of information units that need to be exchanged to support a particular business requirement at a particular process phase (or phases) / stage (or stages),ISO/DIS 29481-1
-Faciility-realted service,,"support provision to the primary processes and activities of an organization, delivered by an internal or external provider",BS8636-1
+Facility-related service,,"support provision to the primary processes and activities of an organization, delivered by an internal or external provider",BS8636-1
 Facilities Management,FM,integration of processes within an organization to maintain and develop the agreed services that support and improve the effectiveness of its primary processes and activities,BS8636-1
 Facility,,"Named distinct operational built or geographic asset, typically a building or section of infrastructure along with details and extent of the geographic site and of the temporal project","ISO 12911, BS 1192-4"
 Facility Declaration,,"Data associated to a facility such as a constructed asset, building or structure, provided or verified by a distinct independent declaration scheme to support evaluation and comparisons",BS 8541-6
@@ -177,10 +178,10 @@ Graphical Data,,Data conveyed using shape and arrangement in space,"PAS 1192-2 F
 Graphical File,,File format designed specifically for representing graphical images,PAS 1192-2 Back
 Handover,,The stage of a capital/delivery project where the asset is made available for use or occupation,PAS 1192-3
 Hostile Reconnaissance,,"Activity of acquiring information about a target with the view to planning to attack, compromise, disrupt or destroy that target",
-IDM Compontents,,"The basic elements that form an IDM: interaction maps / transaction maps, process maps and exchange requirements",ISO/DIS 29481-1
+IDM Components,,"The basic elements that form an IDM: interaction maps / transaction maps, process maps and exchange requirements",ISO/DIS 29481-1
 Impact,,"Representation of an economic, environmental or social dis-benefit of a product","ISO 15686-4, BS 1192-4"
 Individual Thing,,Concept that classifies any real world or imaginary thing that has individuality that is not dependent on a commonality between things,ISO 16354
-Information,,"representation of data in a formal manner suitable for communication, interpretation or processing by human beings or computer applications","ISO 22263, PAS 1192-2 Front, PAS 1192-2 Back, PAS 1192-3"
+Information,,meaningful data,ISO 22263
 Information Constraint,,"A statement that formally defines or constrains the scope of a piece of information due to some aspect of the business, a rule under which an organization operates or a policy or decision that influences a process",ISO/DIS 29481-1
 Information Delivery Manual,IDM,"Strategy for identifying the processes, exchange requirements, business rules and functional parts for information exchanges in facility projects","ISO 12911, ISO/DIS 29481-2"
 Information Device,,Convention indicating an abstract item,BS 8541-2
@@ -205,7 +206,7 @@ Knowledge Model,,Information model that expresses knowledge in a computer interp
 Language,,Coding system of spoken and/or written words and sentences (expressions and phrases) that is used to communicate between people or systems,ISO 16354
 Layer,,Property given to entities within CAD files enabling their visibility and graphical representation to be controlled. Further values may be assigned to the attribute to enable control whether it can be edited or deleted,"BS 1192, PAS 1192-2 Back"
 Lean,,Production focused on delivering value for the employer and eliminating all non-value-adding activities using an efficient workflow,"PAS 1192-2 Front, PAS 1192-2 Back"
-Lean Pinciples,,"Understanding value from a client's perspective identifying the value stream, establish a balanced flow of work, in which the demand for product is pulled from the next customer, with a constant drive for continuous improvement and perfection (Based on 'Lean Thinking', Womack & Jones, 2003 edition)",PAS 1192-2 Back
+Lean Principles,,"Understanding value from a client's perspective identifying the value stream, establish a balanced flow of work, in which the demand for product is pulled from the next customer, with a constant drive for continuous improvement and perfection (Based on 'Lean Thinking', Womack & Jones, 2003 edition)",PAS 1192-2 Back
 Level of Attributing,,Categorization based on a minimum content of attributing information on a library Object,BS 8541-4
 Level of Definition,,Collective term used for and including 'level of model detail' and the 'level of information detail',PAS 1192-2 Front
 Level of Detail,,completeness and accuracy of a virtual shape representation compared to the physical and functional characteristics of the actual object,BS 8541-3
@@ -219,11 +220,11 @@ Maintenance Process,,"Construction process preserving the function of, or operat
 Manageable Assets,,"Those aspects of the facility that may be managed during the facility life-cycle include both physical and spatial objects, and their functional groupings",PAS 1192-2 Back
 Management,,Control activity in a construction process by one or more construction agents,ISO 12911
 Management of Assets,,Operational activities carried out on assets in support of those assets meeting their requirements,PAS 1192-3
-Manufacturer's Model of Physical Object Relation,,Special kind of qualification relation that relates two concepts whereby the subtype is a manufacturer's model of a kind of physical object and the supertype is concept that is a kind of physical object R1 role player: physical object R2 role player: physical object/R1 role: manufacturer's model R2 role: nature/R1-R2 expression: is a model of R2-R1 expression: is the nature of model,ISO 16354
+Manufacturer's Model of Physical Object Relation,,Special kind of qualification relation that relates two concepts whereby the subtype is a manufacturer's model of a kind of physical object and the super type is concept that is a kind of physical object R1 role player: physical object R2 role player: physical object/R1 role: manufacturer's model R2 role: nature/R1-R2 expression: is a model of R2-R1 expression: is the nature of model,ISO 16354
 Marked-up Drawing,,Paper or electronic drawing that has been marked up with comments from other disciplines or the client,PAS 1192-2 Back
 Master Information Delivery Plan,MIDP,"Primary plan for when project information is to be prepared, by whom and using what protocols and procedures, incorporating all relevant task information delivery plans (TIDPs).","PAS 1192-2 Front, PAS 1192-2 Back"
 Master Information Document Index,MIDI,"Index specifying a detailed list of the deliverables for a project; for model, sub models, documents and data also allocating responsibility to deliver and the programme for delivery of a project supply chain",PAS 1192-2 Back
-Measure,,Quantitative or qualitative assessment of relative achievement of a desired quality characteristic,ISO 12911
+Measure,,means of expressing a quantity,ISO 6707-1
 Meta-data,,Data used for the description and management of documents and other containers of information,BS 1192
 Metrics,,The acceptability of the deliverable may be assessed against the requirements shown in the examples and/or against indicative ratios and counts based on the information provided,PAS 1192-2 Back
 Minor Works,,Works carried out on an asset where information is managed using this PAS,PAS 1192-3
@@ -239,15 +240,15 @@ New Rules of Measurements 1,NRM1,Order of Cost Estimating and Cost Planning for 
 New Rules of Measurements 2,NRM2,"Detailed measurement for building works, provides detailed rules for the measurement and description of building works for the purpose of obtaining tender prices",PAS 1192-2 Back
 New Rules of Measurements 3,NRM3,Order of cost estimating and cost planning for building maintenance works is currently in development and is expected to launch in 2013,PAS 1192-2 Back
 Non-graphical Data,,Data conveyed using alphanumeric characters,"PAS 1192-2 Front, PAS 1192-2 Back"
-Object,,"Item having state, behaviour and unique identity ? for example, a wall object","ISD 12911, ISO 15686-4, ISD/DIS 29481-1, PAS 1192-2 Back"
+Object,,any part of the perceivable or conceivable world,ISO 12006-2
 Objective,,Role of a state that is intended to be achieved or that is intended to be prevented,"ISO 12911, ISO 16354"
 Occupant,,user who spends a significant proportion of their time in or about a facility,BS8636-1
-Occurance,,"State that is dynamic and is an interaction over time between involved things, each with its own role",ISO 16354
-Occurance Object,,Representation of an actual occurrence (instance) of an object in a building,"BS 8541-1, BS 8541-3, BS 8541-4"
+Occurrence,,"State that is dynamic and is an interaction over time between involved things, each with its own role",ISO 16354
+Occurrence Object,,Representation of an actual occurrence (instance) of an object in a building,"BS 8541-1, BS 8541-3, BS 8541-4"
 Operability,,capable of being put into use as intended,BS8636-1
 Operation Information,,Information specifying operational activity associated to Types,BS 1192-4
 Operational Strategy,,overall approach to managing the production or use of an asset/facility,BS8636-1
-Operationis team,,functional group responsible for the day-to-day running and maintenance of an asset/facility,BS8636-1
+Operations team,,functional group responsible for the day-to-day running and maintenance of an asset/facility,BS8636-1
 Operator,,Organization that uses an asset to create value but does not own the asset,PAS 1192-3
 Organization,,"Group of people and facilities with an arrangement of responsibilities, authorities and relationships","PAS 1192-3, PAS 1192-5"
 Organization Information Requirements,OIR,Data and information required to achieve the organization's objectives,"PAS 1192-3, BS8636-1"
@@ -256,25 +257,25 @@ Originator,,Agent responsible for production of a container,"BS 1192, PAS 1192-2
 Owner,,Organization that owns an asset and uses the asset either directly or indirectly to create value,PAS 1192-3
 Parametrizable Primitive Solid,,"Model of a defined primitive solid, e.g. a block, cylinder, sphere or cone whose dimensions are represented by parameters to generate variants",ISO/DSI 16757-2
 Part-of Relation,,Relation between two construction objects where one object constitutes the whole and the other a part of that whole,ISO 12006
-Performance,,ability to fulfil required functions under intended use conditions or behaviour when in use,"BS8636-1, ISO 15392"
+Performance,,behaviour related to use,ISO 6707-1
 Personally Identifiable Information,,Personal data as defined in the Data Protection Act 1998,PAS 1192-5
 Personnel,,"Individuals employed by an organization, including contractors or temporary staff used to fulfil roles that may be undertaken by that organization",PAS 1192-5
 Physical Object,,"Individual thing that has a physical nature with a limited lifespan; it may be materialized (and then it may be observable and touchable) or it may be imagined (having deemed aspects, as-if observable)",ISO 16354
 Physical Object - Aspect Relation,,Relation between a kind of physical object and a kind of aspect that specifies that the physical objects of the specified kind can have or has by definition an aspect of the specified kind R1 role player: physical object R2 role player: aspect/R1 role: possessor R2 role: possessed/R1-R2 expression: can have as aspect a R2-R1 expression: can be an aspect of a,ISO 16354
 Placeholder,,Simplified or generic representation of a 3D object,PAS 1192-2 Back
 Plain Language Questions,PLQ,Questions asked of the supply chain by the employer to inform decision-making at key stages of an asset life cycle or project,PAS 1192-3
-Platfrom as a Serivce,PAAS,,OBE
+Platform as a Service,PAAS,,OBE
 Port,,"Located, oriented and directed feature of the product's geometry model for connecting the product to transfer media, fastening other products or executing treatment",ISO/DSI 16757-2
 Portable Document Format (File Format),PDF,Portable Document Format. A standard document format from Adobe Systems for transfer between different computer systems,PAS 1192-2 Back
 Post-occupancy Evaluation,POE,process of evaluating an asset/facility after it has been completed and is in use to understand its actual performance against that required and to capture lessons learned,BS8636-1
 Pre-design Process,,Construction process determining construction properties for the built environment before it is designed,ISO 12006-2
 Procedure,,Specified way to carry out an activity or a process,ISO 22263
-Process,,Set of interrelated or interacting activities which transforms inputs and outputs,ISO22263
+Process,,set of interrelated or interacting activities that use inputs to deliver an intended result,ISO 6707-1
 Process Map,PM,Representation of the relevant characteristics of a process associated with a defined business purpose,ISO/DSI 29481-1
 Procurement (Construction Related),,"commissioning of goods, works and services in relation to a construction related project",PAS 91
 Product,,"Orderable, technical entity",ISO/DSI 16757-1
-Product Catalouge,,Compilation of information about products,ISO/DSI 16757-1
-Product Delcaration,,Data related to a product provided or verified by a distinct independent declaration scheme to support specification and selection,BS 8541-6
+Product Catalogue,,Compilation of information about products,ISO/DSI 16757-1
+Product Declaration,,Data related to a product provided or verified by a distinct independent declaration scheme to support specification and selection,BS 8541-6
 Product Group,,Set of products described by common properties,ISO/DSI 16757-1
 Product Index,,"Compilation of references to all property values of a defined product, the product description, the product geometry, and the product article numbers",ISO/DSI 16757-1
 Product Object,,"Type object intended to represent an obtainable product, either as a requirement or exemplar or as-built","BS 8541-1, BS 8541-3, BS 8541-4"
@@ -288,13 +289,13 @@ Project Execution Plan,,high-level statement of the intentions and arrangements 
 Project Implementation Plan,PIP,"Statement relating to the suppliers, IT and human resources capability to deliver the EIR","PAS 1192-2 Front, PAS 1192-2 Back"
 Project Information Model,PIM,"Information model developed during the design and production and construction phase of a project, consisting of graphical information, non- graphical information and documentation defining the delivered project","PAS 1192-2 Front, PAS 1192-2 Back, PAS 1192-3, BS8636-1"
 Promoter,,"Algorithm that generates an interaction schema for an interaction framework, interaction framework schema, and templates file for input",ISO/DSI 29481-2
-Property,,Defined parameter suitable for the description and differentiation of products,ISO/DSI 16757-1
+Property,,feature or quality of an object,ISO 6707-1
 Property Set,,"Grouping of properties that belong together based on some principle, e.g. viewpoint, lifecycle stage",ISO 15686
 Published/Documentation,,"Component of the CDE for drawing renditions that have been approved as suitable for a specific purpose - for example, suitable for construction",BS 1192-2 Back
 Purpose of Issue,,States the purpose for issuing the document,BS 1192-2 Back
 Purposes,,Those aspects of the Facility that are intended to be managed by the facility owner,BS 1192-2 Back
 Qualification Relation,,Kind of specialization relation that relates two concepts whereby the subtype is a qualitative concept and the supertype is a conceptual concept R1 role player: qualitative concept R2 role player conceptual concept/R1 role: qualifier R2 role: nature/R1-R2 expression: is a qualification of R2-R1 expression: is the nature of,ISO 16354
-Quality,,Degree to which a set of inherent characteristics fulfils requirements,"ISO 22263, BS 8536-1, ISO 9001"
+Quality,,Degree to which a set of inherent characteristics fulfils requirements,ISO 9000
 Quantity Set,,Grouping of characteristic measure properties,ISO 15686-4
 RACI Indicator,,"Abbreviation used to identify which of a group of participants or stakeholders are responsible for ('R'), authorize ('A'), contribute to ('C') or are to be kept informed about ('I') a project activity","PAS 1192-2 Front, PAS 1192-2 Back"
 RAG Report,,"performance report summarizing a series of assessments as red (does not meet requirement), amber (does not meet requirement but plan in place to bring up to standard), or green (meets requirement)",PAS 1192-3
@@ -315,13 +316,13 @@ Risk Appetite,,Function of an organization's capacity to bear risk,PAS 1192-5
 Role,,Functions being performed by an actor at a point in time,ISO 16354
 Role of a Physical Object,,Role that a physical object plays in a relationship or the contribution that a physical object delivers in an occurrence,ISO 16354
 Scale,,"Kind of relation that is used to classify relations between physical properties and numbers, thus indicating a method for quantifying sizes or extents of aspects by mathematical values or ranges",ISO 16354
-Scope of Work,,"design, construction work and/or installation, testing and commissioning, handover and start-up activities necessary to deliver an operational asset/facility",BS8636-1
+Scope of Work,,"design, construction work and/or installation, testing and commissioning, handover and start-up activities necessary to deliver an operational asset/facility",BS 8636-1
 Security Management,,"Role in connection with the project or the management of the asset which is responsible for security of the built asset and associated asset information during the design, construction, operation and maintenance, and disposal or decommissioning of a built asset",PAS 1192-5
 Security-minded,,"Understanding and routine application of appropriate and proportionate security measures in any business situation so as to deter and/or disrupt hostile, malicious, fraudulent and criminal behaviours or activities",PAS 1192-5
 Sensitive Built Asset,,"Built asset, as a whole or in part, that may be of interest to a threat agent for hostile, malicious, fraudulent and/or criminal behaviours or activates",PAS 1192-5
 Sensitive Information,,"Information, the loss, misuse or modification of which, or unauthorized access to, could: adversely affect the privacy, welfare or safety of an individual or individuals; compromise intellectual property or trade secrets of an organization; cause commercial or economic harm to an organization or country; and/or jeopardize the security, internal and foreign affairs of a nation, depending on the level of sensitivity and nature of the information",PAS 1192-5
 Shared,,"Component of the CDE. The shared section of the CDE is where information can be made available to others in a 'safe' environment. The early release of information assists in the rapid development of the design solution. To allow this to be achieved, the concept of information 'status/suitability' has been adopted",PAS 1192-2
-SI System,,Le Système International d’Unités. International system of units,PAS 1192-2
+SI System,,International system of units,PAS 1192-2
 Simplified Representation,,"scale view incorporating only the essential shape, size or features of an object",BS 8541-2
 Smart,,"Application of autonomous or semi-autonomous technology systems to achieve greater utilization of resources, limiting or reducing per capita resource consumption to maintain or improve quality of life",PAS 1192-5
 Smart City,,"Effective integration of physical, digital and human systems in the built environment to deliver a sustainable, prosperous and inclusive future for its citizens",PAS 1192-5
@@ -333,8 +334,8 @@ Space (Location),,"Named location for activities such as use, inspection or main
 Spare,,named replaceable part associated to Types,BS 1192-4
 Specialization Relation,,Relation between kinds of things that relates two concepts whereby the subtype concept is a more specific concept than the supertype concept and has all the aspects that define the supertype concept R1 role player: concept/ R2 role player: concept R1 role: subtype/R2 role: supertype R2 expression/R2-R1 expression is a specialization of/is a generalization of,ISO 16354
 Specification,,Document stating requirements,"ISO 22263, BS 8541-4"
-Stage,,"division of a standardized process map for the acquisition of a facility, at some of which the requirements can be delivered",BS8636-1
-Stakeholder,,"person, group or organization that has interests in, or can affect, be affected by or perceive itself to be affected by, any aspect of the project","BS8636-1, ISO 21500"
+Stage,,"division of a standardized process map for the acquisition of a facility, at some of which the requirements can be delivered",BS 8636-1
+Stakeholder,,"person, group or organization that has interests in, or can affect, be affected by or perceive itself to be affected by, any aspect of the project","BS 8636-1, ISO 21500"
 Standard Font,,Agreed set of font types and sizes to be used for the project,PAS 1192-2 Back
 Standard Layering Convention,,Single layering convention used by the project team,PAS 1192-2 Back
 Standard Method and Procedure,SMP,"Set of standard methods and procedures covering the way information is named, expressed and referenced","PAS 1192-2 Front, PAS 1192-2 Back"
@@ -346,7 +347,7 @@ Sub-Model,,model included as an instance in another model,BS 1192
 Supplier,,Provider of services or goods either directly to the employer or to another supplier in a supply chain,"PAS 1192-2 Front, PAS 1192-2 Back, PAS 91"
 Supplier Information Modelling Assessment Form,,The form conveying the capability and experience of a supplier to carry out information modelling in a collaborative environment,"PAS 1192-2 Front, PAS 1192-2 Back"
 Supplier Information Technology Assessment Form,,The form conveying the capability and IT resources of a supplier for exchanging information in a collaborative environment,"PAS 1192-2 Front, PAS 1192-2 Back"
-Supplmentary Information,,additional descriptive information associated to the assets,BS 1192-4
+Supplementary Information,,additional descriptive information associated to the assets,BS 1192-4
 Supply Chain,,"sequence of all entities engaged directly or indirectly by a client to contribute goods, works and services to a construction related project",PAS 91
 Supply Chain Capability Assessment Form,,Form summarizing the human resource and IT capability of each organization in a supply chain,"PAS 1192-2 Front, PAS 1192-2 Back"
 Symbol,,graphic device without scale used: a) on a drawing to indicate the occurrence and/or location of an item; b) in an annotation to indicate one or more of the attributes of an item,BS 8541-2
@@ -364,6 +365,7 @@ Term,,"(1)verbal designation of a concept or individual thing in a specific subj
 Tester,,testing body,BS 8541-6
 Third Party Capability Assessment Form,,"Form conveying the information management and IT capabilities of non-design, non-construction organizations in a supply chain",PAS 1192-2 Front
 Threat,,Potential cause of an incident which may result in harm to a system or organization,PAS 1192-5
+Tolerance,,permissible variation of the specified value of a quantity,ISO 6707-1
 Traceability,,"Ability to trace the history, application or location of that which is under consideration",ISO 22263
 Transaction,,A communication event that fulfils a relationship between two roles,ISO/DSI 29481-1
 Transaction Map,,Representation of a set of messages that are exchanged between participating roles for a particular purpose,ISO/DSI 29481-1
@@ -378,8 +380,8 @@ Unique Identifier,UID,"Role of a character string when used for unambiguous refe
 Unit of Measure,,Scale that specifies how the size or extent of an aspect is unambiguously quantified by a value on a mathematical range,ISO 16354
 User,,Individual occupying or using a built asset for its design purpose,"PAS 1192-2 Front, PAS 1192-2 Back"
 Utilization Ratio,,Proportion of time that the facility or the product is expected to be fully utilized,ISO 15686-4
-Validation,,"Confirmation, through the provision of objective evidence, that the requirements for a specific intended use or application have been fulfilled",ISO 22263
-Verification,,"confirmation, through the provision of objective evidence, that specified requirements have been fulfilled",ISO 22263
+Validation,,"confirmation, through the provision of objective evidence, that the requirements for a specific intended use or application have been fulfilled",ISO 9000
+Verification,,"confirmation, through the provision of objective evidence, that specified requirements have been fulfilled",ISO 9000
 Version,,"Sub-indexing to revision as used in the common data environment to show the development of information and information models, e.g. if a version is named P1.1, P1 is the revision number and .1 is the version to that revision",PAS 1192-2 Back
 Virtual Construction Model,,Subsequent version of the Project Information Model developed from the design intent model by the construction supplier and their supply chain,"PAS 1192-2 Front, PAS 1192-2 Front"
 Volume,,"Manageable spatial subdivision of a project, defined by the 'project team' as a subdivision of the overall project that allows more than one person to work on the project models simultaneously and consistent with the analysis and design process","PAS 1192-2 Front, PAS 1192-2 Front"
